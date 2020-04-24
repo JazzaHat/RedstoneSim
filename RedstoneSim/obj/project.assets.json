@@ -829,11 +829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jazza\\source\\repos\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
+      "projectUniqueName": "C:\\Users\\Jazza\\Source\\Repos\\JazzaHat\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
       "projectName": "RedstoneSim",
-      "projectPath": "C:\\Users\\Jazza\\source\\repos\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
+      "projectPath": "C:\\Users\\Jazza\\Source\\Repos\\JazzaHat\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
       "packagesPath": "C:\\Users\\Jazza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jazza\\source\\repos\\RedstoneSim\\RedstoneSim\\obj\\",
+      "outputPath": "C:\\Users\\Jazza\\Source\\Repos\\JazzaHat\\RedstoneSim\\RedstoneSim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jazza\\AppData\\Roaming\\NuGet\\NuGet.Config",

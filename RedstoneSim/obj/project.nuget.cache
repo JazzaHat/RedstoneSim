@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4tMEdotJX+pBcphQqK7BCgv9I+fR4YN5SMTfqVGCSyL3gcHOu82jed14DVl1Zn50Rdty2Z/rWRwggYzy9WzYw==",
+  "dgSpecHash": "sXKbvtCVnRTvGvJgcqYLtE5FGyEvFrv1U7Jr1mWN0QD7w/Ld3pf6NazBTBQfTUkgWSh2mB3kCGOHLhts/1aq5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jazza\\source\\repos\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
+  "projectFilePath": "C:\\Users\\Jazza\\Source\\Repos\\JazzaHat\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.6\\microsoft.codeanalysis.fxcopanalyzers.2.9.6.nupkg.sha512",
     "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.6\\microsoft.codeanalysis.versioncheckanalyzer.2.9.6.nupkg.sha512",
