@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4tMEdotJX+pBcphQqK7BCgv9I+fR4YN5SMTfqVGCSyL3gcHOu82jed14DVl1Zn50Rdty2Z/rWRwggYzy9WzYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jazza\\source\\repos\\RedstoneSim\\RedstoneSim\\RedstoneSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.6\\microsoft.codeanalysis.fxcopanalyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.6\\microsoft.codeanalysis.versioncheckanalyzer.2.9.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.6\\microsoft.codequality.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.6\\microsoft.netcore.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-preview.2.20160.6\\microsoft.netcore.platforms.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.6\\microsoft.netframework.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-preview.2.20160.6\\microsoft.win32.systemevents.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentk\\4.0.0-pre3\\opentk.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.core\\4.0.0-pre3\\opentoolkit.core.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.graphics\\4.0.0-pre3\\opentoolkit.graphics.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.input\\4.0.0-pre3\\opentoolkit.input.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.mathematics\\4.0.0-pre3\\opentoolkit.mathematics.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.redist.glfw\\3.3.0-pre20190419183326\\opentoolkit.redist.glfw.3.3.0-pre20190419183326.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.windowing.common\\4.0.0-pre3\\opentoolkit.windowing.common.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.windowing.desktop\\4.0.0-pre3\\opentoolkit.windowing.desktop.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\opentoolkit.windowing.graphicslibraryframework\\4.0.0-pre3\\opentoolkit.windowing.graphicslibraryframework.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\Jazza\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
