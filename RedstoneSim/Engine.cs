@@ -16,9 +16,6 @@ namespace Redstonesim
 {
 	public class Engine : GameWindow
 	{
-		/// <summary>
-		/// Out going commit
-		/// </summary>
 		float[] _vertices = new float[16*16*16*24*5];
 		uint[] _indices = new uint[16*16*16*36*3];
 
